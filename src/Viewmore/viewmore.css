@@ -1,0 +1,58 @@
+p{
+    color: red;
+    font-size: 10px;
+}
+.cont-1{
+    width: 100%;
+    display: flex;
+}
+.cont-1 img{
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
+.detailsSec>p{
+    color: white;
+    width: 80%;
+    font-size: 17px;
+    margin-left: 50px;
+}
+.descriptionContainer{
+    display: flex;
+    margin-left: 50px;
+    gap: 100px;
+    color: white;
+    font-size: 17px;
+}
+.desc1>p{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+.desc2>p{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+.section2{
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: right;
+    gap: 50px;
+}
+.section2 p{
+    color: white;
+    font-size: 20px;
+    background-color: rgba(255, 253, 253, 0.2);
+    border-radius: 5px;
+    padding: 5px;
+}
+.hr{
+    display: flex;
+    flex-direction: column;
+    color: red;
+    width: 100%;
+    border-radius: 5px;
+    border: solid 1px red;
+}
